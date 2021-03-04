@@ -24,7 +24,10 @@
   justify-content: center;
   min-height: 100vh;
 }
+ .casilla{
+ justify-content: center;
 
+}
 .player {
   width: 300px;
   height: 550px;
