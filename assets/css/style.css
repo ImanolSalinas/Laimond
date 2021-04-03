@@ -1544,3 +1544,11 @@ section {
         margin: -20px 0 30px 0;
     }
 }
+
+.nav-menu .dropdown-item {
+    color: black;
+}
+
+.nav-menu .dropdown-item:hover {
+    color: #cc1616;
+}

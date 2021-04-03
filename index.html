@@ -36,6 +36,10 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+    <script src="assets/js/dic/en.json" type="application/json" data-vavilon-dict="en"></script>
+    <script src="assets/js/dic/spa.json" type="application/json" data-vavilon-dict="spa"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vavilon@1/dist/vavilon.min.js"></script>
+
 </head>
 
 <body>
@@ -75,6 +79,15 @@
                     <li><a href="#services">Services</a></li>
                     <li><a href="#portfolio">Work Samples</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Language</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" onclick="setLang('en')" href="#">English</a>
+                            <a class="dropdown-item" onclick="setLang('spa')" href="#">Español</a>
+                        </div>
+                    </li>
+
+
 
                 </ul>
             </nav>
@@ -88,7 +101,7 @@
     <section id="hero" class="d-flex align-items-center">
         <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
             <h1>Laimond Music</h1>
-            <h2>Your music at a professional level</h2>
+            <h2 class="vavilon" data-vavilon="title-page">Your music at a professional level</h2>
         </div>
     </section>
     <!-- End Hero -->
