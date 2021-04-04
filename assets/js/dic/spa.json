@@ -1,5 +1,21 @@
 {
     "hello": "Hola Welt!",
     "title-page": "tu musica a nivel profesional",
-    "boton-lenguaje": "Español"
+    "boton-lenguaje": "Español",
+    "servicios": "Servicios",
+    "desc": "Mauricio es productor musical, músico e ingeniero de mezcla y masterización que comenzo a la edad de 14 años. Utilizando software y hardware de última generación, así como equipos de monitoreo de referencia profesionales, mezclara y dominara profesionalmente tu canción. Su trabajo es sacar lo mejor de tu canción, pulirla y hacerla brillar.",
+    "mezc": "Mezcla",
+    "mezc-desc": "Mezcla Profesional Multitrack",
+    "mast": "Masterizacion",
+    "mast-desc": "Masterizacion Profesional",
+    "prod": "Produccion",
+    "prod-desc": "Produccion Musical en diferentes generos musicales",
+    "grab-inst": "Grabacion de Instrumentos",
+    "grab-inst-desc": "Grabacion Profesional en varios instrumentos",
+    "grab-voc": "Grabacion de Voces",
+    "grab-voc-desc": "Grabacion de voces y coros profesionales",
+    "grab-beat-desc": "Beats de musica urbana(trap, reggaeton, hip hop, etc)",
+    "work-xamples": "Ejemplos de Trabajo",
+    "cont": "Contacto"
+
 }

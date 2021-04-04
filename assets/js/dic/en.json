@@ -1,5 +1,20 @@
 {
     "hello": "Hallo Welt!",
     "title-page": "Your music at a professional level",
-    "boton-lenguaje": "English"
+    "boton-lenguaje": "English",
+    "servicios": "Servicies",
+    "desc": "Mauricio is a music producer, musician, and mixing and mastering engineer who started at the age of 14. Using state-of-the-art software and hardware, as well as professional reference monitoring equipment, it will professionally mix and master your song. Their job is to bring out the best in your song, polish it, and make it shine.",
+    "mezc": "Mix",
+    "mezc-desc": "Professional Multitrack Mix",
+    "mast": "Mastering",
+    "mast-desc": "Professional Mastering",
+    "prod": "Production",
+    "prod-desc": "Musical production in different musical genres",
+    "grab-inst": "Instrument recording",
+    "grab-inst-desc": "Professional recording on various instruments",
+    "grab-voc": "Voice Recording",
+    "grab-voc-desc": "Professional vocals and choirs recording",
+    "grab-beat-desc": "Urban music beats (trap, reggaeton, hip hop, etc)",
+    "work-xamples": "WORK SAMPLES",
+    "cont": "Contact"
 }

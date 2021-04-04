@@ -1552,3 +1552,7 @@ section {
 .nav-menu .dropdown-item:hover {
     color: #cc1616;
 }
+
+.audioEjemplo {
+    width: 88%;
+}
