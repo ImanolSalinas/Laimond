@@ -20,7 +20,7 @@ body {
 }
 
 a {
-    color: #cc1616;
+    color: #dadada;
 }
 
 a:hover {
@@ -1555,4 +1555,24 @@ section {
 
 .audioEjemplo {
     width: 88%;
+}
+
+.containerFiverr {
+    text-align: -webkit-center;
+}
+
+.containerFiverr h4 {
+    place-self: center;
+}
+
+.fiverr-seller-widget {
+    align-self: center;
+}
+
+.fiverr-profile-img {
+    height: 100px;
+}
+
+.fiverr-icon {
+    height: 85px;
 }
