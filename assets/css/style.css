@@ -1576,3 +1576,11 @@ section {
 .fiverr-icon {
     height: 85px;
 }
+
+#logoFiverNav {
+    height: 15px;
+}
+
+#img-header {
+    max-height: 250px;
+}
