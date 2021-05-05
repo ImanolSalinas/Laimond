@@ -16,6 +16,11 @@
     "grab-voc-desc": "Grabacion de voces y coros profesionales",
     "grab-beat-desc": "Beats de musica urbana(trap, reggaeton, hip hop, etc)",
     "work-xamples": "Ejemplos de Trabajo",
-    "cont": "Contacto"
-
+    "cont": "Contacto",
+    "linkAbout": "Sobre mi",
+    "linkHome": "Home",
+    "linkServices": "Servicios",
+    "linkWork": "Ejemplos de Trabajo",
+    "linkContact": "Contacto",
+    "linkLenguaje": "Lenguaje"
 }
