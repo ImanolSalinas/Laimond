@@ -1584,3 +1584,8 @@ section {
 #img-header {
     max-height: 250px;
 }
+
+.cita {
+    display: contents;
+    font-style: italic;
+}
