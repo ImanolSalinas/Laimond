@@ -1032,6 +1032,10 @@ section {
     color: #fff;
 }
 
+.player h2 {
+    padding: 28px;
+}
+
 .pricing .featured h3,
 .pricing .featured h4,
 .pricing .featured ul,
